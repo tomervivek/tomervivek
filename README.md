@@ -72,7 +72,9 @@ I aim to keep growing as a **Software Engineer**, work on impactful projects, an
 - Involved in developing scalable modules, integrating APIs, and improving performance of web applications.  
 
 ### 📝 Personal Projects  
-- **Personal Blogging System** – Built a complete blogging system using **Node.js, Express.js, MongoDB, Next.js, and Tailwind CSS** with features like authentication, post creation, and responsive design.  
+- **Personal Blogging System** – Built a complete blogging system using **Node.js, Express.js, MongoDB, Next.js, and Tailwind CSS** with features like authentication, post creation, and responsive design.
+
+- **AI Code Reviewer** - AI Code Reviewer is a tool that uses AI to analyze and review your code, providing feedback and suggestions for improvement.
 
 ---
 
