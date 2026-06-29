@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I'm a Software Engineer with around 4 years of experience in React.js and Next.js, Java, Spring Boot currently working at **Tata Consultancy Services (TCS)**, specializing in projects within the **BFSI (Banking, Financial Services, and Insurance) domain**.  
+I'm a Software Engineer with around 4 years of experience in React.js and Next.js, Java, Spring Boot. Currently working at **Tata Consultancy Services (TCS)**, specializing in projects within the **BFSI (Banking, Financial Services, and Insurance) domain**.  
 
 I am passionate about:  
 - Building scalable and performant web applications and mobile applications
