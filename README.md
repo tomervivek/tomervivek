@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I'm a Software Engineer with around 4 years of experience in React.js and Next.js,React Native, currently working at **Tata Consultancy Services (TCS)**, specializing in projects within the **BFSI (Banking, Financial Services, and Insurance) domain**.  
+I'm a Software Engineer with around 4 years of experience in React.js and Next.js, Java, Spring Boot currently working at **Tata Consultancy Services (TCS)**, specializing in projects within the **BFSI (Banking, Financial Services, and Insurance) domain**.  
 
 I am passionate about:  
 - Building scalable and performant web applications and mobile applications
@@ -28,7 +28,7 @@ I aim to keep growing as a **Software Engineer**, work on impactful projects, an
 
 ## 💼 Work Experience  
 
-### 💻 System Engineer — Tata Consultancy Services (TCS)  
+### 💻 Software Engineer — Tata Consultancy Services (TCS)  
 *July 2024 – Present*  
 - Developed scalable web and mobile apps using React, HTML, CSS, and JavaScript.  
 - Implemented reusable component-based architecture to streamline development.  
@@ -39,22 +39,22 @@ I aim to keep growing as a **Software Engineer**, work on impactful projects, an
 
 ---
 
-### 💻 Frontend Developer — SAS One Pvt Ltd  
+### 💻 Software Developer — SAS One Pvt Ltd  
 *Sep 2021 – July 2024*  
 - Led development of interactive UIs using React and Next.js.  
 - Delivered SEO-friendly apps with **SSR (Server-Side Rendering)** and **SSG (Static Site Generation)**.  
 - Worked with cross-functional teams to deliver user-centric solutions.  
 - Collaborated using Bitbucket for version control, branching, and peer code reviews.  
 
-**Tech Stack:** JavaScript, React.js, Next.js, Tailwind CSS, React Native  
+**Tech Stack:** JavaScript, React.js, Next.js, Tailwind CSS, React Native, Node.js  
 
 ---
 
 ## 🛠 Skills & Technologies  
 
 **Frontend:** JavaScript, React.js, Next.js, React Native, Tailwind CSS, HTML, CSS  
-**Backend:** Node.js, Express.js, REST API, MySQL, MongoDB, Python, Django  
-**Tools:** VS Code, Git, GitHub, Figma, Postman  
+**Backend:** Java, Spring Boot, Node.js, Express.js, REST API, MySQL, MongoDB  
+**Tools:** VS Code, Git, GitHub, Figma, Postman, Docker 
 
 ---
 
